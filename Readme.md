@@ -1,4 +1,4 @@
-# Mini AI-Powered RAG System
+# AI-Powered RAG System
 
 A production-ready backend system that accepts documents (PDFs/Images), processes them using a **multi-agent architecture**, stores structured knowledge in a vector database, and answers user questions grounded strictly in uploaded content.
 
